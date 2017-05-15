@@ -1,4 +1,4 @@
-package org.launchcode.java.demos.java4python.methods;
+package org.launchcode.java.practice;
 
 /**
  * Created by jarrett on 5/8/2017.
